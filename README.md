@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @VuyiSewela
 - 👀 I’m interested in ...Learning
-- 🌱 I’m currently learning ...Python
+- 🌱 I’m currently learning ...Java
 - 💞️ I’m looking to collaborate on ...everything code
 - 📫 How to reach me ... mrslotonga@gmail.com
 
